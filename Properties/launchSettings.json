@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OffCrypt": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

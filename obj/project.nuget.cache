@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BWYNVe2wP4=",
+  "success": true,
+  "projectFilePath": "F:\\Visual Basic Softwares Sources\\SOURCES\\Net Applications\\AndroidStudioProjects\\OffCryptC\\OffCrypt\\OffCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35844\\.nuget\\packages\\konscious.security.cryptography.argon2\\1.3.1\\konscious.security.cryptography.argon2.1.3.1.nupkg.sha512",
+    "C:\\Users\\35844\\.nuget\\packages\\konscious.security.cryptography.blake2\\1.1.1\\konscious.security.cryptography.blake2.1.1.1.nupkg.sha512",
+    "C:\\Users\\35844\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
