@@ -110,7 +110,7 @@
 ## 🚀 Development
 
 ### Technology Stack
-- **Language**: C# (.NET 6.0+)
+- **Language**: C# (.NET 9.0+)
 - **UI Framework**: Windows Forms
 - **Cryptography**: Windows Cryptography API, Bouncy Castle
 - **Storage**: Windows DPAPI, Registry, INI files
@@ -168,3 +168,4 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 
 *Made with ❤️ by [EmptyCode0x86](https://dev-offcode.com) | Follow updates: [@OffCryptAndroid](https://x.com/OffCryptAndroid)*
+
