@@ -50,15 +50,26 @@
 
 ### Main Interface
 ![OffCrypt Desktop Main Interface](SettingsWindows.png)
+
+
+
 *Windows encryption software main dashboard showing ECDH+HKDF+AES-GCM configuration and secure messaging interface*
 
 ### Password-Based Encryption
 ![Password Mode Windows Encryption](PasswordModeWindows.png)
+
+
+
 *Password-based encryption mode with disappearing messages settings and AES-256-GCM security options*
 
 ### X25519 Public Key Mode
 ![X25519 Public Key Encryption for Windows](PublicKeyModeWindows.png)
+
+
+
 *X25519 public key cryptography interface for PGP-style secure communication without servers*
+
+
 
 ## 📖 Documentation
 
@@ -154,5 +165,6 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 **🔐 OffCrypt Desktop** - *Secure communication without compromise*
 
 ---
+
 
 *Made with ❤️ by [EmptyCode0x86](https://dev-offcode.com) | Follow updates: [@OffCryptAndroid](https://x.com/OffCryptAndroid)*
